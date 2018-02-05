@@ -1,0 +1,8 @@
+.local
+.ipython
+.cache
+notebooks/.ipynb_checkpoints/*
+nltk_data
+output/*
+.DS_Store
+.jupyter
